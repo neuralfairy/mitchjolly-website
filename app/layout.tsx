@@ -12,6 +12,9 @@ export const metadata: Metadata = {
   description:
     "iGCT by Mitchjolly connects you worldwide through reliable, cloud-powered voice solutions for enterprise sales teams.",
   keywords: "cloud telephony, global calling, voice solutions, iGCT, B2B sales tools, VoIP, SIP trunking",
+  icons: {
+    icon: "/favicon.png",
+  },
   authors: [{ name: "Mitchjolly Solutions" }],
   openGraph: {
     title: "Mitchjolly Solutions - Global Cloud Telephony",
